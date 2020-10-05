@@ -76,10 +76,9 @@ Why an International GitLaw Repository
 ## Git Instructions
 
 1. Register an [account on Gitub]([https://github.com] if you dont have one already  
-2. From your browser - log into Github and navigate to the OPN-Accord Repository. [At this link](https://)  
-Clone this repository - by clicking ont  which will include the privacy rights clause and references
-3. Edit the page - change name to your name - save
-4. Pull-request -
+2. From your browser - log into Github and navigate to the model clause template. [At this link](https://github.com/CommonAccord/OPN-aNG-Accord/blob/main/ClauseTemplate.md)  ??? Clone it by clicking on the "Edit" button which will "fork" this whole OPN-aNG-Accord repo into your account and set you up to edit.
+3. Edit the page - add a title (Ti=) add section text (sec=) add your name (Author=) add a Comment if you like.  Change the name of the file (in the box at the top of the page) to something meaningful.  Save (box at the bottom), with a really short note.  
+4. Do a "Pull-request" - asking us to add your new file to the main repository.
 5. International GitLaw Project
 
 ## Hack Resources
