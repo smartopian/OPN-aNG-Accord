@@ -27,17 +27,21 @@ This is an approach to developing standard clauses using GitForLaw.  We aim to b
 
 1. Git and Github are general purpose ways of long term collaboration.  A key part of open source collaboration for software, and should be used for legal text, too.
 
-1. A nuanced approach to legal rules can be constructed from the top-down ideas of law and regulation, and the bottom-up ideas of contracts, licenses and consents.  This can be both highly individualized and highly interoperable.
+1. Legal rules are mostly expressed in text.  A nuanced approach to legal rules can be constructed from the top-down ideas of law and regulation, and the bottom-up ideas of contracts, licenses and consents.  This can be both highly individualized and highly interoperable if we handle text as modules.
 
-1. Applied to privacy, there can be broad engagments such as data sharing frameworks, specific terms such as terms of use and individualized elements such as consent receipts.  These can be instantiated in particular settings and automated using software code. 
+1. Applied to privacy, there can be broad engagements such as data sharing frameworks, specific agreements such as terms of use and individualized elements such as consent receipts.  These can be instantiated in particular settings and automated using software code. 
 
 
 ## Agenda
 
-1. Lets get on Git -
+1. You get on Github.
 
-We'll 
-## OPN-Ctrl- International GitForLaw Repo-Project
+1. You draft a clause.
+
+1. You contribute it to this repository.
+
+
+## Background
 
 This is the first hack for aNG for international policy infrastructure and is apart of a long term series of community projects that has driven the development of decentralised notice and consent standards and best practice for identity management and surveillance technology. Designed to enhance privacy policies and Terms of Use in a way that addressess the #FakePrivacy burden of policy.
 
@@ -46,6 +50,7 @@ This is part of a long term multi-standard community initiatives and 20 years of
 After a decade of standards development the next generation privacy standard for Online Notice has been published.   standard for Operational Notice & Consent Receipts has been published June 2020 (ISO 29184 with the Notice & Consent Receipt) which we can finally put to good use.
 
 Challenge 1: Write a standard contractual clause to supersede terms of online services for Data Rights which mandate consistent control performance, consider key issues (and well know problems)
+
 
 Privacy Rights - Consent Types for Master Data Controls https://openconsent.atlassian.net/l/c/Gw2dCTwL
 
@@ -66,8 +71,6 @@ Why an International GitLaw Repository
    - What will this accomplish:
    - Support international Operational Privacy Rights and Enforcement Perspective
 
- Method - Go through modularity - clause then reference the same  clause - modularity
-- post publicly - internationally
 
 
 ## Git Instructions
@@ -86,11 +89,11 @@ Notice & Consent Receipt : Standard Notice & Consent Controls https://openconsen
 
 ## Background:
 
-To address data governance challenges there has been a longnitudnal effort to standardise guidelines for transborder flows of personal data for online identification and digital identity/surviellance management. In this regard the international standard for Online Privacy and Consent Controls is recently published - with the use of receipt standard to capture privacy records from online privacy notice and consent.
+To address data governance challenges there has been a longitudinal effort to standardise guidelines for transborder flows of personal data for online identification and digital identity/surviellance management. In this regard the international standard for Online Privacy and Consent Controls is recently published - with the use of receipt standard to capture privacy records from online privacy notice and consent.
 
-Privacy policies and terms of use that people are suppose to read and learn have been callled out as the Biggest Lie on The Internet, where services pretend to get consent (to policies no one can read or track).  Without notice and consent standards there is very weak transparency online which is now a sever data breach of the most sensitive kinds in many societies.  An industry now dogged by  movies like "terms and conditions may apply", "the greatest hack", and the. "social dilemma" these policies and terms are contracts of adhesion dressed up as consent. Dependent on the Terms of use of the device manufacturer, the browser and the law.  Policies Without transparent security, strong (or better legal transparency), meaningful notice and proportional use of rights are just not trustworhty.
+Privacy policies and terms of use that people are suppose to read and learn have been callled out as the Biggest Lie on The Internet, where services pretend to get consent (to policies no one can read or track).  Without notice and consent standards there is very weak transparency online which is now a severe data breach of the most sensitive kinds in many societies.  An industry now dogged by  movies like "terms and conditions may apply", "the greatest hack", and the "social dilemma" these policies and terms are contracts of adhesion dressed up as consent. Dependent on the Terms of Use of the device manufacturer, the browser and the law.  Policies Without transparent security, strong (or better legal transparency), meaningful notice and proportional use of rights are just not trustworhty.
 
-Trustwothiness in creatd by knowing what to expect. 
+Trustwothiness in created by knowing what to expect. 
 
 ## Key Points Standard Clause should be aware of
 
