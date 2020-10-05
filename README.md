@@ -12,6 +12,8 @@ Session Tues 6th, Oct Led By
 - James Hazard - CommonAccord.org  "Bringing the World to Agreement" - Mission to modularise law refine and reuse the same law - 
 
 
+This is an approach to developing standard clauses using GitForLaw.  We aim to begin a clause repository collaboratively together.  It can combine with CommonAccord so that clauses can be iterated upon through application (reused rather than re-issued.)  With international transborder security and privacy rights so that all stakeholders can use the same standards to be interoperable with humans. In essence the evolution of a very old human innovation called the receipt.
+
 ## Goals:
 
 1. Get familiar with Git and GitHub for publishing texts and collaboration.
@@ -32,6 +34,7 @@ Session Tues 6th, Oct Led By
 
 ## Agenda
 
+1. Lets get on Git -
 
 We'll 
 ## OPN-Ctrl- International GitForLaw Repo-Project
@@ -56,7 +59,7 @@ Objective is to make standard clauses for the International Repository - which s
 
 To use the newly published (and long awaited) ISO Online Privacy Notice Controls combined into the Kantara / AdvCIS: Operational Notice & Consent Receipt Specification V1.2, which provide an independent inter-national legal toolset for decentralised transparency and data control.  To put this resource to use it requires first the extra-territorial space and the formation of standardised contractual clauses as an alternative to what we have now.
 
-This approach to developing standard clauses for gitlaw aims to  begin this clause repository collaboratively together.  Using Common Accord so that clauses can be iterated upon through application, (reused rather than re-issued.)  With international transborder security and privacy rights so that all stakeholders can use the same standards to be interoperable with humans. In essence the evolution of a very old human innovation called the receipt.  
+  
 
 Why an International GitLaw Repository
 - The objective of this hackathon is to further international computational law by creating and working on standard privacy contract clauses for extending privacy rights for transborder data flows to contracts and terms and services. Cross legal jurisdiction and identity surveillance domains with Master Data Right Controls.
