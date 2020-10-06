@@ -1,16 +1,15 @@
-# OPN-aNG-Accord
+# aNG-OPN-Accord
 Repo for Stanford - Sorbonne class collaboration
 
 
 *  [aNG- Interacive Sumit on Personal Data Governance](https://www.anewgovernance.org/2020/09/17/interactive-summit-on-personal-data-governance/)
 
 
-** Automating PII Principal / Data Subject Rights and Data Controls For Computational Privacy Law **
+** Automating PII Principal / Data Subject Rights and Data Controls with Computational Privacy Law **
 
 Session Tues 6th, Oct Led By 
 - Mark Lizar Open Consent Group UK & Smart Species Canada - Mission is to support International Decentralised Data Governance and Meaningful Consent
 - James Hazard - CommonAccord.org  "Bringing the World to Agreement" - Mission to modularise law refine and reuse the same law - 
-
 
 This is an approach to developing standard clauses using GitForLaw.  We aim to begin a clause repository collaboratively together.  It can combine with CommonAccord so that clauses can be iterated upon through application (reused rather than re-issued.)  With international transborder security and privacy rights so that all stakeholders can use the same standards to be interoperable with humans. In essence the evolution of a very old human innovation called the receipt.
 
@@ -43,37 +42,39 @@ This is an approach to developing standard clauses using GitForLaw.  We aim to b
 
 ## Background
 
-This is the first hack for aNG for international policy infrastructure and is apart of a long term series of community projects that has driven the development of decentralised notice and consent standards and best practice for identity management and surveillance technology. Designed to enhance privacy policies and Terms of Use in a way that addressess the #FakePrivacy burden of policy.
+This is the first hack for aNG international policy infrastructure and is apart of a long term series of community projects that continue to drive the development of decentralised notice and consent standards and best practice for identity surveillance technology. The method of apporach for this hackathing is  to enhance Privacy Policies and Terms of Use in a way that they work together to reverse the #FakePrivacy burden of digital policy.
 
-This is part of a long term multi-standard community initiatives and 20 years of OECD to ISO standardisation for cross border data governance.
+This is part of a long term (20 year) multi-community internatonal standards initiative begun by the OECD with Guidelines on the Protection of Privacy and the Transborder Flows of Personal Data, with a clear objective:
 
-After a decade of standards development the next generation privacy standard for Online Notice has been published.   standard for Operational Notice & Consent Receipts has been published June 2020 (ISO 29184 with the Notice & Consent Receipt) which we can finally put to good use.
+“to prevent what are considered to be violations of fundamental human rights, such as the unlawful storage of personal data, the storage of inaccurate personal data, or the abuse or unauthorised disclosure of such data” [OECD 2000:2013]
+and 20 years of OECD to ISO standardisation for cross border data governance.
 
-Challenge 1: Write a standard contractual clause to supersede terms of online services for Data Rights which mandate consistent control performance, consider key issues (and well know problems)
+After a decade of standards development for the next generation of privacy, the ISO/IEC 29184 standard for Online Notice has been published [June 2006](https://www.iso.org/standard/70331.html).  In which the first example of next standard for Operational Notice & Consent Receipts is been published in the appendix.   
+
+Now, to put all the latest developments in regulations, standards and technology to good use
+
+## Challenge Objective: Consent Centric Privacy Rights Performance Clause using International Standard
+
+### Challenges: 
+
+Craft and Post a Privacy Rights Contract Clause to a GitLaw Report: 
+
+1. Review the Privacy rights, Consent Type and legal justification obligations and consideratione before drafting and posting a contractual clauses.  Understand the aim is to contract ther performance of a Consent Types enhancement of a terms of use for online services as specified by GDPR privacy rights. 
+
+[Consent Type Profile for Privacy Rights](https://openconsent.atlassian.net/wiki/spaces/IHD/pages/768245803/Consent+Type+Profiles+for+Privacy+Rights)  
+
+1. Pick out a Consent Type from the table - then write a conractual clause for the performance of the privacy rights listed. For insight into what to craft consider some of the well know issues for data governance when usin terms and conditions. 
+
+Note: Consider concepts such as the cosistent application of  master data controls, what is expected in the performance of the contract and how the use of privacy rights can enhance terms of use for the better. 
+
+1. Optional: Consider how an international standard can be uniquely place to help address critical data gove transparency gaps we collectively face today. 
+
+1. Review/Add to the listed/known issues and ToS Vs Rights  challenges and write a clause that addresses it 
+
+- Slect a Consent Types Profile and complete the mapping of a human centric [Master Data Controls](https://openconsent.atlassian.net/l/c/Gw2dCTwL) to a human centric master data control conrtract clause
 
 
-Privacy Rights - Consent Types for Master Data Controls https://openconsent.atlassian.net/l/c/Gw2dCTwL
-
-review the Privacy rights, Consent Type and legal justification obligations and consideration
-
-use this material to draft standard clauses for the use of privacy rights for data controls.
-
-Publish Clause to AdvCIS or to GitHub
-
-Objective is to make standard clauses for the International Repository - which supersede terms of service and provide data subject with master privacy data controls.
-
-To use the newly published (and long awaited) ISO Online Privacy Notice Controls combined into the Kantara / AdvCIS: Operational Notice & Consent Receipt Specification V1.2, which provide an independent inter-national legal toolset for decentralised transparency and data control.  To put this resource to use it requires first the extra-territorial space and the formation of standardised contractual clauses as an alternative to what we have now.
-
-  
-
-Why an International GitLaw Repository
-- The objective of this hackathon is to further international computational law by creating and working on standard privacy contract clauses for extending privacy rights for transborder data flows to contracts and terms and services. Cross legal jurisdiction and identity surveillance domains with Master Data Right Controls.
-   - What will this accomplish:
-   - Support international Operational Privacy Rights and Enforcement Perspective
-
-
-
-## Git Instructions
+## GitLaw Instructions
 
 1. Register an [account on Gitub]([https://github.com] if you dont have one already  
 2. From your browser - log into Github and navigate to the model clause template. [At this link](https://github.com/CommonAccord/OPN-aNG-Accord/blob/main/ClauseTemplate.md)  ??? Clone it by clicking on the "Edit" button which will "fork" this whole OPN-aNG-Accord repo into your account and set you up to edit.
@@ -81,12 +82,12 @@ Why an International GitLaw Repository
 4. Do a "Pull-request" - asking us to add your new file to the main repository.
 5. International GitLaw Project
 
-## Hack Resources
+## Additional Resources
 
 - Operational Notice & Consent Receipt Specification [V 1.2](https://docs.google.com/document/d/1UjwYuu_-0_JnskDA29PfzRq5XXQYVZHu7QIeEduBS6w/edit?usp=sharing 
 Notice & Consent Receipt : Standard Notice & Consent Controls https://openconsent.atlassian.net/l/c/XZBQURMn
 
-## Background:
+## Additional Background:
 
 To address data governance challenges there has been a longitudinal effort to standardise guidelines for transborder flows of personal data for online identification and digital identity/surviellance management. In this regard the international standard for Online Privacy and Consent Controls is recently published - with the use of receipt standard to capture privacy records from online privacy notice and consent.
 
@@ -102,7 +103,9 @@ Strong transparency is missing for digital services - little transparency over t
 
 Key Risks over the use of Digital Identity Management
 
-### Meta-Data - Identifier Management Transparency (IMT) this is critical component of any clause. (e.g. restricting identification or identifiers tracking, cross-site profiling, with cookies and beacons. Especially for data trusts like parental consent, or for medical research, etc which require consent by design, where metadata and big data is a human resource (not a capitalistic one)
+### Meta-Data Governance  
+
+Identifier Management Transparency (IMT) this is critical component of any clause. (e.g. restricting identification or identifiers tracking, cross-site profiling, with cookies and beacons. Especially for data trusts like parental consent, or for medical research, etc which require consent by design, where metadata and big data is a human resource (not a capitalistic one)
 
 ### Secondary Use
 
