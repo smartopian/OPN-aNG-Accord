@@ -1,17 +1,16 @@
 # aNG-OPN-Accord
 Repo for Stanford - Sorbonne class collaboration
 
-
 *  [aNG- Interactive Summit on Personal Data Governance](https://www.anewgovernance.org/2020/09/17/interactive-summit-on-personal-data-governance/)
-
 
 ** Automating PII Principal / Data Subject Rights and Data Controls with Computational Privacy Law **
 
 Session Tues 6th, Oct Led By
-- Mark Lizar Open Consent Group UK & Smart Species Canada - Mission is to support International Decentralised Data Governance and Meaningful Consent
-- James Hazard - CommonAccord.org  "Bringing the World to Agreement" - Mission to modularise law refine and reuse the same law -
+- Mark Lizar Open Consent Group UK & Smart Species Canada - "Smart Person - Smart Planet" Mission to support Meaningful Consent with GitForLaw tools made for Decentralised Data Governance  
+- James Hazard - CommonAccord.org  "Bringing the World to Agreement" - Mission to modularise law refine and reuse with linked records (for data processing)
 
-This is an approach to developing standard clauses using GitForLaw.  We aim to begin a clause repository collaboratively together.  It can combine with CommonAccord so that clauses can be iterated upon through application (reused rather than re-issued.)  With international transborder security and privacy rights so that all stakeholders can use the same standards to be interoperable with humans. In essence the evolution of a very old human innovation called the receipt.
+This is an approach to enhance existing by combining standards (and iteratively better legal practice) with GitForLaw.  In this session we aim to begin this project clause repository collaboratively together with an evolution of a very old human innovation commonly called a receipt.
+
 
 ## Goals:
 
